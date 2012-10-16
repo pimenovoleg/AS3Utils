@@ -10,7 +10,7 @@
  *
  *****************************************************/
 
-package utils.formatter
+package utils
 {
 	public class ByteConvert
 	{

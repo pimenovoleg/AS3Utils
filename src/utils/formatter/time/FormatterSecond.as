@@ -1,3 +1,15 @@
+/****************************************************
+ *  
+ *  Copyright 2012. All Rights Reserved.
+ *  This Software including limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
+ *  
+ *****************************************************
+ *
+ *  Create by - Oleg Pimenov
+ *  Version
+ *
+ *****************************************************/
+
 package utils.formatter.time
 {
 	public class FormatterSecond
